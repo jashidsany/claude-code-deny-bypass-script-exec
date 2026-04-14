@@ -109,7 +109,6 @@ Run `/permissions` and verify all deny rules are still listed under the Deny tab
 | [evidence/5_confirmed_data_exfil.PNG](evidence/5_confirmed_data_exfil.PNG) | Webhook.site confirming receipt of exfiltrated data |
 | [evidence/6_show_audit.PNG](evidence/6_show_audit.PNG) | Full script contents showing all denied commands |
 | [evidence/7_2nd_example_bash_bypass.PNG](evidence/7_2nd_example_bash_bypass.PNG) | Deny rules still active after bypass completed |
-| [evidence/demo.mp4](evidence/demo.mp4) | Full video demonstration |
 
 ## Source Files
 
