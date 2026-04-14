@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "Bash(cat:*)",
+      "Bash(find:*)"
+    ],
+    "deny": [
+      "Bash(curl:*)",
+      "Bash(whoami:*)",
+      "Bash(id:*)",
+      "Bash(ss:*)",
+      "Bash(netstat:*)"
+    ]
+  }
+}
